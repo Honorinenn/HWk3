@@ -10,16 +10,14 @@ html,
   background-color: lightgray;  
   width: 600px;
   border: 15px solid rgb(70, 39, 184);
-  padding: 50px;
   margin: 20px;
 }
 
 body {
   font-family: sans-serif;
   background-color:rgb(87, 179, 233);
-  border: lightslategrey;
   padding: 50px;
-  
+  margin: 0  
 }
 
 
