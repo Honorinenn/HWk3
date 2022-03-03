@@ -1,6 +1,7 @@
 # Password Generator 
 
 This is an application that enables employees, to generate random passwords based on criteria that they've selected. The link to the deploy app as follows:
+https://honorinenn.github.io/Password-Generator/
 
 
 ![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
